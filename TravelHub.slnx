@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="TravelHub/TravelHub.csproj" />
+  <Project Path="TravelHub.Application/TravelHub.Application.csproj" />
+  <Project Path="TravelHub.Domain/TravelHub.Domain.csproj" />
+  <Project Path="TravelHub.Infrastructure/TravelHub.Infrastructure.csproj" />
+  <Project Path="TravelHub/TravelHub.API.csproj" />
 </Solution>
